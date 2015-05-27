@@ -1,0 +1,27 @@
+{
+  "name": "angular_gems_store",
+  "version": "1.0.0",
+  "description": "Tutorial from http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/optimys/angular.git"
+  },
+  "keywords": [
+    "angular",
+    "tutorial",
+    "codeschool"
+  ],
+  "author": "Alex Kalashnikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/optimys/angular/issues"
+  },
+  "homepage": "https://github.com/optimys/angular#readme",
+  "dependencies": {
+    "angular": "*"
+  }
+}
